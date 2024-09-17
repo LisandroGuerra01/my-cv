@@ -29,11 +29,11 @@ To run this project locally:
 
 # Currículum Vitae de una Sola Página
 
-Este proyecto es un CV de una sola página construido utilizando HTML, CSS (con Bootstrap) y JavaScript. La página web presenta información básica sobre Lisandro Guerra, incluyendo educación, habilidades, experiencia, y enlaces a redes sociales.
+Este proyecto es un CV de una sola página construido utilizando HTML y CSS (con Bootstrap). La página web presenta información básica sobre Lisandro Guerra, incluyendo educación, habilidades, experiencia, y enlaces a redes sociales.
 
 ## URL del Proyecto
 
-Puedes ver el proyecto en vivo aquí: [Currículum Vitae de una Sola Página](https://roadmap.sh/projects/single-page-cv)
+Puedes ver el proyecto en vivo aquí: https://roadmap.sh/projects/single-page-cv
 
 ## Características
 
